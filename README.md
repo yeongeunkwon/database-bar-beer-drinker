@@ -6,7 +6,7 @@
 The [front-end website](https://warm-temple-15359.herokuapp.com/static/index.html) describes several patterns of customer spending, derived from the transaction data, that may be analyzed to provide the bars with helpful business strategies to increase profit. 
 
 ### Documentation
-Please see this repository's [Wiki](https://github.com/yeongeunkwon/Database-Management/wiki) for documentation and operational details. 
+Please see this repository's [Wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) for documentation and operational details. 
 
 ### Important Files 
 [Front-End Web Main Codes]()
