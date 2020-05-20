@@ -1,0 +1,1 @@
+database_uri = "mysql+pymysql://admin:Aa111111@yk9326.cklxlhrly6br.us-east-2.rds.amazonaws.com:3306/BarBeerDrinker"

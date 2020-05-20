@@ -1,0 +1,26 @@
+<div class="container">
+    <h2 class="text-center font-weight-light">Query Output</h2>
+    <h2 class="text-center font-weight-light">This Page is under construction</h2>
+    <h2 class="text-center font-weight-light">To run your query, go to /interface/your-query-here</h2>
+    <br>
+    <p>Database Schema is the following: </p>
+    <p>beers (name, manf)</p>
+    <p>bars (name, addr, city, state, license, openingTime, closingTime)</p>
+    <p>drinker (name, state, phone)</p>
+    <p>food (name)</p>
+    <p>frequents (drinker, bar)</p>
+    <p>generates (transactionID, bar, drinker)</p>
+    <p>item (name)</p>
+    <p>likes (drinker, beer)</p>
+    <p>orders (transactionID, bar, item)</p>
+    <p>sellsResult (bar, item, price)</p>
+    <p>transactions (bar, transactionID, date, time, bill, tax, tip, totalPrice)</p> 
+
+</div>
+
+<p id="table">
+<script>
+    var obj = { table: "result", limit: 50000 };
+    var myJSON = JSON.stringify(obj);
+    document.getElementById("table").innerHTML = myJSON;
+</script>
