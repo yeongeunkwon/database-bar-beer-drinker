@@ -6,7 +6,7 @@
 I recommend starting with the [front-end website](https://warm-temple-15359.herokuapp.com/static/index.html), where you can see several patterns of customer spending, derived from the transaction data, that may be useful to the bars to create business strategies that may increase profit. 
 
 ### Documentation
-Please see this repository's [Wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) for documentation on the database and using the front-end website. 
+Please see this repository's [Wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) for documentation and how to use the front-end website. 
 
 ### Credits
 - Author(s): Yeongeun Kwon 
