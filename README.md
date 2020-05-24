@@ -10,4 +10,4 @@ Please see the [wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/
 
 ## Credits
 - Author(s): Yeongeun Kwon 
-- Guidance provided by Course CS 336 Information & Data Management at Rutgers University - New Brunswick Department of Computer Science
+- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick
