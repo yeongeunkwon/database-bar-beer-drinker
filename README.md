@@ -7,7 +7,7 @@ I suggest starting with the [front-end website](https://warm-temple-15359.heroku
 
 ## Documentation
 Please see the Wiki of this repository for the following: 
-* [Home](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) | Introduction to the Database 
+* [Wiki Home](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) | Introduction to the Database 
 * [Bar Beer Drinker Website](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Bar-Beer-Drinker-Website) | Video tutorial of the Front-End 
 * [Entity-Relationship Diagram](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Entity-Relationship-Diagram) | Database Schema and Entity-Relationship Diagram 
 * [SQL queries](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/SQL-queries) | SQL queries used in Bar Beer Drinker 
