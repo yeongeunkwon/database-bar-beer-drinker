@@ -6,8 +6,8 @@
 I suggest starting with the [front-end website](https://warm-temple-15359.herokuapp.com/static/index.html), where you can see several patterns of customer spending derived from the transaction data, that the bars may find helpful to create their business strategies that would increase their profit. 
 
 ## Documentation
-Please see the [wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) of this repository for following: 
-* [Home](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki#home) | Introduction to the Database 
+Please see the Wiki of this repository for the following: 
+* [Home](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) | Introduction to the Database 
 * [Bar Beer Drinker Website](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Bar-Beer-Drinker-Website) | Video tutorial of the Front-End 
 * [Entity-Relationship Diagram](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Entity-Relationship-Diagram) | Database Schema and Entity-Relationship Diagram 
 * [SQL queries](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/SQL-queries) | SQL queries used in Bar Beer Drinker 
@@ -23,4 +23,4 @@ This [Excel file](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/file
 
 ## Credits
 - Author(s): Yeongeun Kwon 
-- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick-
+- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick
