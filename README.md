@@ -6,7 +6,13 @@
 I suggest starting with the [front-end website](https://warm-temple-15359.herokuapp.com/static/index.html), where you can see several patterns of customer spending derived from the transaction data, that the bars may find helpful to create their business strategies that would increase their profit. 
 
 ## Documentation
-Please see the [wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) for documentation and how to use the front-end website. 
+Please see the [wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki) of this repository for following documentation: 
+* [Home](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki#home) | Introduction to the Database 
+* [Bar Beer Drinker Website](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Bar-Beer-Drinker-Website) | Video tutorial of the Front-End 
+* [Entity-Relationship Diagram](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/Entity-Relationship-Diagram) | Database Schema and Entity-Relationship Diagram 
+* [SQL queries](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/wiki/SQL-queries) | SQL queries used in Bar Beer Drinker 
+
+This [Excel file](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/files/4693942/database-instance.xlsx) contains data in the relational database of Bar Beer Drinker. The file has multiple sheets. Each sheet is a table, and the sheet names are the table names. The first row of the sheets are the keys of the table. 
 
 ## Built With
 * HTML, JavaScript, Python, AngularJS, NodeJS
@@ -17,4 +23,4 @@ Please see the [wiki](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/
 
 ## Credits
 - Author(s): Yeongeun Kwon 
-- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick
+- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick-
