@@ -3,7 +3,7 @@
 ## Introduction 
 **Bar Beer Drinker** is about a number of fictional bars and their sales. The bars sell only beers and food items. A number of customers ("drinkers") order beers and/or food from the given bars, for which transactions ("bills") are issued. This project explores order bills issued between 6 Oct 2018 and 20 Nov 2018, in order to derive interesting facts about how the bars' businesses were doing at the time. Information about the bars, beers, drinkers, and bills are stored in a relational database. Any information used in this project is fictional. 
 
-The database was deployed to front-end with Amazon RDS. The front-end website showed several patterns of customer spending derived from the transaction data, that the bars may find helpful to create their business strategies that would increase their profit. 
+The front-end website showed several patterns of customer spending derived from the transaction data, that the bars may find helpful to create their business strategies that would increase their profit. 
 
 ## Documentation
 Please see the Wiki of this repository for the following: 
