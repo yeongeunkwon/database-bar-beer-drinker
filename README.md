@@ -22,5 +22,8 @@ This [Excel file](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/file
 * Visual Studio Code IDE
 
 ## Credits
-- Author(s): Yeongeun Kwon 
-- Guidance by: Course CS 336 Information & Data Management at Rutgers University - New Brunswick
+**Team Member(s)**
+* Yeongeun Kwon 
+
+**Reference(s)**
+* Course CS 336 Information & Data Management at Rutgers University - New Brunswick
