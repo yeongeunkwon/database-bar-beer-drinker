@@ -1,4 +1,4 @@
-# The Bar Beer Drinker Project
+ The Bar Beer Drinker Project
 
 ## Introduction 
 **Bar Beer Drinker** is about a number of fictional bars and their sales. The bars sell only beers and food items. A number of customers ("drinkers") order beers and/or food from the given bars, for which transactions ("bills") are issued. This project explores order bills issued between 6 Oct 2018 and 20 Nov 2018, in order to derive interesting facts about how the bars' businesses were doing at the time. Information about the bars, beers, drinkers, and bills are stored in a relational database. Any information used in this project is fictional. 
@@ -24,6 +24,7 @@ This [Excel file](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/file
 ## Credits
 **Team Member(s)**
 * Yeongeun Kwon 
-
-**Reference(s)**
 * Course CS 336 Information & Data Management at Rutgers University - New Brunswick
+
+## Works Cited
+Arpit Shah, Bar Beer Drinker, (2018), GitHub Repository, https://github.com/arpitshah101/BarBeerDrinker 
