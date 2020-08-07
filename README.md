@@ -21,9 +21,3 @@ This [Excel file](https://github.com/yeongeunkwon/Database-Bar-Beer-Drinker/file
 ## Credits
 **Team Member(s)**
 * Yeongeun Kwon 
-
-**Reference**
-* Course CS 336 Information & Data Management at Rutgers University - New Brunswick
-
-## Works Cited
-Arpit Shah, Bar Beer Drinker, (2018), GitHub Repository, https://github.com/arpitshah101/BarBeerDrinker 
